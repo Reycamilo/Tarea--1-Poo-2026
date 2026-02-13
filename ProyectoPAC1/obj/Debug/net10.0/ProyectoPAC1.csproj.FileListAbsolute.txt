@@ -1,0 +1,15 @@
+/home/cami/proyectos/tareaNo1/ProyectoPAC1/bin/Debug/net10.0/ProyectoPAC1
+/home/cami/proyectos/tareaNo1/ProyectoPAC1/bin/Debug/net10.0/ProyectoPAC1.deps.json
+/home/cami/proyectos/tareaNo1/ProyectoPAC1/bin/Debug/net10.0/ProyectoPAC1.runtimeconfig.json
+/home/cami/proyectos/tareaNo1/ProyectoPAC1/bin/Debug/net10.0/ProyectoPAC1.dll
+/home/cami/proyectos/tareaNo1/ProyectoPAC1/bin/Debug/net10.0/ProyectoPAC1.pdb
+/home/cami/proyectos/tareaNo1/ProyectoPAC1/obj/Debug/net10.0/ProyectoPAC1.GeneratedMSBuildEditorConfig.editorconfig
+/home/cami/proyectos/tareaNo1/ProyectoPAC1/obj/Debug/net10.0/ProyectoPAC1.AssemblyInfoInputs.cache
+/home/cami/proyectos/tareaNo1/ProyectoPAC1/obj/Debug/net10.0/ProyectoPAC1.AssemblyInfo.cs
+/home/cami/proyectos/tareaNo1/ProyectoPAC1/obj/Debug/net10.0/ProyectoPAC1.csproj.CoreCompileInputs.cache
+/home/cami/proyectos/tareaNo1/ProyectoPAC1/obj/Debug/net10.0/ProyectoPAC1.sourcelink.json
+/home/cami/proyectos/tareaNo1/ProyectoPAC1/obj/Debug/net10.0/ProyectoPAC1.dll
+/home/cami/proyectos/tareaNo1/ProyectoPAC1/obj/Debug/net10.0/refint/ProyectoPAC1.dll
+/home/cami/proyectos/tareaNo1/ProyectoPAC1/obj/Debug/net10.0/ProyectoPAC1.pdb
+/home/cami/proyectos/tareaNo1/ProyectoPAC1/obj/Debug/net10.0/ProyectoPAC1.genruntimeconfig.cache
+/home/cami/proyectos/tareaNo1/ProyectoPAC1/obj/Debug/net10.0/ref/ProyectoPAC1.dll
